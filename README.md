@@ -26,6 +26,7 @@ You can install all required dependencies using pip:
 ```bash
 pip install torch torchvision scikit-learn pandas numpy matplotlib seaborn
 ```
+```
 ### Method 1: Running in Google Colab (Recommended)
 
 1.  **Upload:** Upload the `Clustering_Notebook.ipynb` file to your Google Drive.
@@ -34,12 +35,12 @@ pip install torch torchvision scikit-learn pandas numpy matplotlib seaborn
 4.  **Run All:** Execute all cells in the notebook in order from top to bottom. A simple way to do this is `Runtime` -> `Run all`.
 
 The notebook is self-contained and will perform all necessary steps: training the models, performing the clustering, calculating the final evaluation metrics, and generating all the visualizations for the report.
-
-
+```
+```
 ### Method 2: Running Locally
 
 1.  **Setup Environment:** Make sure you have a local Python environment with all the libraries listed in the **Requirements** section installed.
 2.  **Hardware:** While the code will run on a CPU, using a machine with a CUDA-enabled GPU is highly recommended to significantly reduce training time.
 3.  **Execute:** Open the `Clustering_Notebook.ipynb` file in a local Jupyter Notebook or JupyterLab instance and run all the cells in order.
-
+```
 
