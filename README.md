@@ -25,7 +25,7 @@ The project is implemented in Python 3. The following libraries are required to 
 You can install all required dependencies using pip:
 ```bash
 pip install torch torchvision scikit-learn pandas numpy matplotlib seaborn
-
+```
 ### Method 1: Running in Google Colab (Recommended)
 
 1.  **Upload:** Upload the `Clustering_Notebook.ipynb` file to your Google Drive.
